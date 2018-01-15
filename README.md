@@ -19,3 +19,8 @@ Current Work @Google : https://github.com/conversationai/unintended-ml-bias-anal
 
 DataSet : https://github.com/conversationai/unintended-ml-bias-analysis/tree/master/data
 
+GloVe: Global Vectors for Word Representation : https://nlp.stanford.edu/projects/glove/
+
+![word](https://user-images.githubusercontent.com/5808185/34950497-54f7e830-fa39-11e7-9325-b6fb11705a97.png)
+We will use these pre-trained embeddings when we need a way to quantify word co-occurrence (which also captures some aspects of word meaning.)
+
